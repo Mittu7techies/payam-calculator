@@ -21,7 +21,7 @@ need to find some payam
 to calculate amount of payam for puttu
 
 ### The Solution (that nobody asked for)
-we will tell you how much you want in no. of molecules
+we will tell you how much you want in no. of atoms
 
 ## Technical Details
 ### Technologies/Components Used
