@@ -2,26 +2,26 @@
 
 
 
-# [Payam calculator] 🎯
+# Payam calculator 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Mite
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Fidel - Sahrdaya
+- Member 2: Anstral - Sahrdaya
+  
 
 ### Project Description
-[2-3 lines about what your project does]
+need to find some payam
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+to calculate amount of payam for puttu
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+we will tell you how much you want in no. of molecules
 
 ## Technical Details
 ### Technologies/Components Used
