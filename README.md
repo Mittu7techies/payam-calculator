@@ -37,10 +37,12 @@ For Hardware:
 - [List tools required - Nil]
 
 ### Implementation
-For Software:
+For Software:Just enter your Puttu in gram and go with your combo in atoms 
+
 # Installation
-pip install customtkinter pillow
-python payam_calculator.py
+[pip install customtkinter pillow]
+
+[python payam_calculator.py]
 
 
 ### Project Documentation
@@ -87,7 +89,7 @@ IT WORKS WELL
 
 ## Team Contributions
 - [Fidel]: [Side Quest Taker]
-- [Anstral]: [Engineer,Prompter]
+- [Anstral]: [Engineer or Prompter]
 - [Kevin]: [Motivating through Meme]
 
 ---
