@@ -26,15 +26,15 @@ we will tell you how much you want in no. of atoms
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Languages used - Python]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [List main components - Nil]
+- [List specifications - Nil]
+- [List tools required - Nil]
 
 ### Implementation
 For Software:
