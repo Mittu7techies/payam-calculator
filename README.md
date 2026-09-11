@@ -27,9 +27,9 @@ we will tell you how much you want in no. of atoms
 ### Technologies/Components Used
 For Software:
 - [Languages used - Python]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Frameworks used - Tkinter]
+- [Libraries used - CustomTkinter,Pillow (PIL),pathlib,math,sys]
+- [Tools used - VS code]
 
 For Hardware:
 - [List main components - Nil]
