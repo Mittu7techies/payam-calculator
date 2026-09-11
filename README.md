@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# [Payam calculator] 🎯
 
 
 ## Basic Details
