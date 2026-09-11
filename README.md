@@ -48,14 +48,16 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](<img width="1600" height="940" alt="image" src="https://github.com/user-attachments/assets/b8f65287-3d5f-423e-a74f-455e43d08dbe" />
+)
+It shows the combos that you can add as your wish 
+![Screenshot2](<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/ec8ac271-04e7-40c1-afdc-a6547f88d637" />
+)
+It have an input box ,So you enter the amount of Puttu you have
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](<img width="1600" height="940" alt="image" src="https://github.com/user-attachments/assets/f67100eb-d8b2-47f8-9052-fbd0c4e2baca" />
+)
+It shows how much Pazham , Panchasara ,or Papadam you need
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
