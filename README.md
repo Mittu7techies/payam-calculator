@@ -39,17 +39,18 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+pip install customtkinter pillow
+python payam_calculator.py
 
-# Run
-[commands]
 
 ### Project Documentation
-For Software:
+For Software:[PROJECT_DOCUMENTATION.md](https://github.com/user-attachments/files/32133692/PROJECT_DOCUMENTATION.md)
+
 
 # Screenshots (Add at least 3)
 ![Screenshot1](<img width="1600" height="940" alt="image" src="https://github.com/user-attachments/assets/b8f65287-3d5f-423e-a74f-455e43d08dbe" />
 )
+
 It shows the combos that you can add as your wish 
 ![Screenshot2](<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/ec8ac271-04e7-40c1-afdc-a6547f88d637" />
 )
@@ -60,40 +61,34 @@ It have an input box ,So you enter the amount of Puttu you have
 It shows how much Pazham , Panchasara ,or Papadam you need
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow]
+Start
+Open the Payam Calculator application.
+Display the available side dishes: Banana, Sugar, and Pappadam.
+User selects one or more side dishes.
+If no dish is selected, show a warning and return to selection.
+Ask the user to enter the puttu weight in grams.
+Check whether the weight is a valid positive number.
+Calculate the quantity of the selected side dish based on the puttu weight.
+Calculate the number of atoms using the stored atomic density.
+Display the atomic result in scientific notation.
+Allow the user to go back and select different dishes.
+Stop
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+IT WORKS
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[(https://youtube.com/shorts/Va_y8xA66AQ?feature=share)]
+IT WORKS WELL
 
 # Additional Demos
-[Add any extra demo materials/links]
+[https://youtu.be/_XG3sDRrWD4]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Fidel]: [Side Quest Taker]
+- [Anstral]: [Engineer,Prompter]
+- [Kevin]: [Motivating through Meme]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
