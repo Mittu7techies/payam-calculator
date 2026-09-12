@@ -51,8 +51,7 @@ For Software:[PROJECT_DOCUMENTATION.md](https://github.com/user-attachments/file
 
 # Screenshots (Add at least 3)
 ![<img width="1600" height="940" alt="WhatsApp Image 2026-09-12 at 4 10 57 AM" src="https://github.com/user-attachments/assets/c7af7b9c-16c4-428e-8f59-cac850da6e8b" />
-](
-)
+]
 It shows the combos that you can add as your wish 
 
 ![<img width="1600" height="940" alt="WhatsApp Image 2026-09-12 at 4 10 57 AM (2)" src="https://github.com/user-attachments/assets/a8f395d1-cdba-4be1-85a3-6f495f55c305" />
@@ -60,8 +59,7 @@ It shows the combos that you can add as your wish
 It have an input box ,So you enter the amount of Puttu you have
 
 ![<img width="1600" height="1000" alt="WhatsApp Image 2026-09-12 at 4 10 57 AM (1)" src="https://github.com/user-attachments/assets/236dfeb7-ff76-4ce5-a5f2-02100b23d190" />
-](
-)
+]
 It shows how much Pazham , Panchasara ,or Papadam you need
 
 # Diagrams
